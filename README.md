@@ -18,7 +18,7 @@ Developed an interactive HR Analysis Dashboard using Power BI to analyze workfor
 - Power Query & DAX: Data transformation and custom measures for in-depth insights
 
 ## Dashboard 
-![IMG of HR Analysis dashboard ]([https://github.com/user-attachments/assets/791c7e84-505d-4ef8-93e8-90014aeabb45](https://github.com/Akshaya-Akshu/POWER-BI---HR-ANALYSIS-DASHBOARD/commit/9cfce19f4e62134c72777391a7756b36985e528f#diff-981e446cc595bf7132f3a09a981124e6b54e4136765c334f29cb6aed3ed655da))
+![IMG of HR Analysis dashboard ](https://github.com/Akshaya-Akshu/POWER-BI---HR-ANALYSIS-DASHBOARD/blob/main/Dashboard.png.png)
 
 
 ## Technologies Use
